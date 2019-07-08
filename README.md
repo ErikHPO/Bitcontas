@@ -11,7 +11,7 @@
 - [Laravel Voyager](https://github.com/the-control-group/voyager) 
 - [Laravel Package BTC](https://github.com/ErikHPO/laravel-btc) 
 - [Laravel Pt-BR Validator](https://github.com/LaravelLegends/pt-br-validator)
-- [Bitcoin JSON-RPC Server](https://github.com/LaravelLegends/pt-br-validator) 
+- [Bitcoin JSON-RPC Server](https://bitcoin.org/en/download) 
 
 ### INSTALAÇÃO E CONFIGURAÇÃO
 
@@ -42,6 +42,7 @@ Tudo deve estar funcionando a partir daqui, o painel administrador pode ser aces
 
 Configure os BREADS da tabela *Bills* e *Payments* usando o controller do *Voyager*, no menu de configurações do administrador, se achar necessário.  
 
+### OUTRAS CONFIGURAÇÕES
 #### EXEMPLO DE ARQUIVO .ENV
 ```.env
 APP_NAME=Bitcontas
@@ -96,4 +97,6 @@ BITCOIND_PASSWORD=b1tc0nt45
 BITCOIND_MIN_CONFIRMATIONS=3
 ```
 
-
+Desenvolvido por
+    Erik Opata
+        erikhpo@brexbit.com
