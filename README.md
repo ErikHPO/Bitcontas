@@ -100,3 +100,4 @@ BITCOIND_MIN_CONFIRMATIONS=3
 Desenvolvido por
     Erik Opata
         erikhpo@brexbit.com
+	mariliancouto@gmail.com
